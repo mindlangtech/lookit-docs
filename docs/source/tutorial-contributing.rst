@@ -319,6 +319,7 @@ List of tutorial participants
 - Nalinda Wanikpun (NYU)
 - Christina Moutsiana (University of Westminster)
 - Gissell Duran (New York University)
+- Junko Kanero (Sabanci University)
 
 
 Checking for and creating issues on Github
